@@ -34,4 +34,22 @@ For further understanding, refer to resources on [Program Counter (PC)](https://
 
 ## Results
 
-Below is a video explaining how our processor works, in which the processor executes the program written in the program.v file.
+Below is a video explaining how our processor works, in which the processor executes the program written in the program.v file which is located inside the processor folder.
+
+
+
+## Schematic
+
+Below is the image of what exactly the circuit of this processor looks like.
+![Screenshot from 2024-04-22 15-23-25](https://github.com/RuchitJagodara/Mini-Processor/assets/137716667/aa150603-9907-4933-95fb-d379e97d71cb)
+
+
+Above implementations are made using verilog.
+
+## Installation and trying out the code
+
+If you want to run this code in your vivado software then just open the downloaded folder and you will be able to work with it, but while contributing to this repo you have to contribute through github directly changing the code in vivado won't work because vivado does not provide support to work with git or github directly.
+
+## Contributions
+
+If you want to contribute to this just make a PR. :-)
